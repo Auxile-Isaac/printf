@@ -1,4 +1,4 @@
-.TH man 3 "19 april 2022" "0.10" "_printf man page"
+.TH man 3 "17 May 2022" "0.10" "_printf man page"
 .SH NAME
 .B _printf
 - Formatted output conversion.
@@ -65,6 +65,6 @@ _printf("%s, %s %d, %d\\n", weekday, month, day, year);
 .I printf(3)
 .SH BUGS
 No known bugs.
-
-# This Work was been submitted by Chrysanthe Eloi Chrysanthe (https://github.com/chrysloi) and Perfect Gift IZIHIRWE (https://github.com/Perfectizihirwe)
+.SH AUTHOR
+# This Work was been submitted by  Iradukunda Auxile,(https://github.com/Auxile-Isaac) and Olukayode Osisami IZIHIRWE (https://github.com/osisamkay)
 // end

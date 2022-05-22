@@ -9,23 +9,23 @@
  */
 int get_flag(const char s, flags_t *f)
 {
-	int i = 0;
+	int j = 0;
 
 	switch (s)
 	{
 		case '+':
 			f->plus = 1;
-			i = 1;
+			j = 1;
 			break;
 		case ' ':
 			f->space = 1;
-			i = 1;
+			j = 1;
 			break;
 		case '#':
 			f->hash = 1;
-			i = 1;
+			j = 1;
 			break;
 	}
 
-	return (i);
+	return (j);
 }
